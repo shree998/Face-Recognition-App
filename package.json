@@ -1,6 +1,6 @@
 {
 	"name": "facerecognition",
-	"homepage": "https://shree998.github.io/Face-Recognition-App",
+	"homepage": ".",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
